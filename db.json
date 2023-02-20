@@ -13,7 +13,7 @@
             }
     ],
     "country":[
-        [
+        
             {
                 "country": "Afghanistan"
             },
@@ -758,6 +758,5 @@
             {
                 "country": "Zimbabwe"
             }
-        ]
     ]
 }
